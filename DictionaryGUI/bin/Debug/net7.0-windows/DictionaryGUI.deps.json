@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "DictionaryGUI/1.0.0": {
+        "dependencies": {
+          "prjDictionary": "1.0.0"
+        },
+        "runtime": {
+          "DictionaryGUI.dll": {}
+        }
+      },
+      "prjDictionary/1.0.0": {
+        "runtime": {
+          "prjDictionary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DictionaryGUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "prjDictionary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

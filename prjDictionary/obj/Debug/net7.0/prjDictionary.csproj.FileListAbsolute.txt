@@ -1,0 +1,14 @@
+D:\Varsity\PROG\Dictionary\prjDictionary\bin\Debug\net7.0\prjDictionary.exe
+D:\Varsity\PROG\Dictionary\prjDictionary\bin\Debug\net7.0\prjDictionary.deps.json
+D:\Varsity\PROG\Dictionary\prjDictionary\bin\Debug\net7.0\prjDictionary.runtimeconfig.json
+D:\Varsity\PROG\Dictionary\prjDictionary\bin\Debug\net7.0\prjDictionary.dll
+D:\Varsity\PROG\Dictionary\prjDictionary\bin\Debug\net7.0\prjDictionary.pdb
+D:\Varsity\PROG\Dictionary\prjDictionary\obj\Debug\net7.0\prjDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Varsity\PROG\Dictionary\prjDictionary\obj\Debug\net7.0\prjDictionary.AssemblyInfoInputs.cache
+D:\Varsity\PROG\Dictionary\prjDictionary\obj\Debug\net7.0\prjDictionary.AssemblyInfo.cs
+D:\Varsity\PROG\Dictionary\prjDictionary\obj\Debug\net7.0\prjDictionary.csproj.CoreCompileInputs.cache
+D:\Varsity\PROG\Dictionary\prjDictionary\obj\Debug\net7.0\prjDictionary.dll
+D:\Varsity\PROG\Dictionary\prjDictionary\obj\Debug\net7.0\refint\prjDictionary.dll
+D:\Varsity\PROG\Dictionary\prjDictionary\obj\Debug\net7.0\prjDictionary.pdb
+D:\Varsity\PROG\Dictionary\prjDictionary\obj\Debug\net7.0\prjDictionary.genruntimeconfig.cache
+D:\Varsity\PROG\Dictionary\prjDictionary\obj\Debug\net7.0\ref\prjDictionary.dll

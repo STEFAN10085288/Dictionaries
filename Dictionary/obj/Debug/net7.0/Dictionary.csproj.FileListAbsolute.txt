@@ -1,0 +1,14 @@
+D:\Varsity\PROG\Dictionary\Dictionary\bin\Debug\net7.0\Dictionary.exe
+D:\Varsity\PROG\Dictionary\Dictionary\bin\Debug\net7.0\Dictionary.deps.json
+D:\Varsity\PROG\Dictionary\Dictionary\bin\Debug\net7.0\Dictionary.runtimeconfig.json
+D:\Varsity\PROG\Dictionary\Dictionary\bin\Debug\net7.0\Dictionary.dll
+D:\Varsity\PROG\Dictionary\Dictionary\bin\Debug\net7.0\Dictionary.pdb
+D:\Varsity\PROG\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Varsity\PROG\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfoInputs.cache
+D:\Varsity\PROG\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.AssemblyInfo.cs
+D:\Varsity\PROG\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.csproj.CoreCompileInputs.cache
+D:\Varsity\PROG\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.dll
+D:\Varsity\PROG\Dictionary\Dictionary\obj\Debug\net7.0\refint\Dictionary.dll
+D:\Varsity\PROG\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.pdb
+D:\Varsity\PROG\Dictionary\Dictionary\obj\Debug\net7.0\Dictionary.genruntimeconfig.cache
+D:\Varsity\PROG\Dictionary\Dictionary\obj\Debug\net7.0\ref\Dictionary.dll
